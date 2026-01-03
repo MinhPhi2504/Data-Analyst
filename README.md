@@ -1,4 +1,4 @@
-Dự án phân tích dữ liệu khách hàng để xác định phân khúc khách hàng hợp lí cho một doanh nghiệp.
+Đồ án phân tích dữ liệu khách hàng để xác định phân khúc khách hàng hợp lí cho một doanh nghiệp.
 Bộ dữ liệu được lấy trên Kaggle: https://www.kaggle.com/datasets/jackdaoud/marketing-data?select=ifood_df.csv.
 
 Đồ án sử dụng ngôn ngữ lập trình Python để xử lí và làm sạch dữ liệu, train mô hình để phân loại khách hàng. 
